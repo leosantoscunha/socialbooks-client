@@ -1,4 +1,4 @@
-package com.algaworks.socialbooks.domain;
+package com.algaworks.socialbooks.client.domain;
 
 public class DetalhesErro {
 
